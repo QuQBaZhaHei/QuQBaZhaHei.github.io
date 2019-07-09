@@ -1961,7 +1961,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #05ff16;
+  background: #e4d1ff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3144,10 +3144,4 @@ pre {
 code,
 pre {
   border: 1px solid #d6d6d6;
-}
-* {
-  cursor: url("http://om8u46rmb.bkt.clouddn.com/sword2.ico"), auto !important;
-}
-:active {
-  cursor: url("http://om8u46rmb.bkt.clouddn.com/sword1.ico"), auto !important;
 }
